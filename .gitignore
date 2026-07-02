@@ -27,3 +27,10 @@ assets/build
 assets/dist
 assets/Linux
 *Zone.Identifier
+# Local build and dependency output
+node_modules/
+dist/
+coverage/
+
+# Local portfolio cleanup backup
+README.before-portfolio-cleanup.md
