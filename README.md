@@ -1,5 +1,51 @@
-# Assignment 1
+# Flappy Birb – Functional Reactive Programming Game
 
+Flappy Birb is a browser-based game inspired by Flappy Bird, built using TypeScript, RxJS and SVG. The project applies functional reactive programming concepts to manage game state, movement, collisions and user input.
+
+## Project Overview
+
+The game uses RxJS Observable streams to control gameplay events such as gravity, flapping, pipe movement, scoring, collisions and game resets.
+
+Instead of relying on traditional imperative game loops, the project focuses on reactive data streams and functional programming principles.
+
+## Key Features
+
+- Flappy Bird-style browser gameplay
+- Gravity and flapping mechanics
+- Scrolling pipes
+- Collision detection
+- Score tracking
+- Lives system
+- Restart functionality
+- Game-ending conditions
+- Ghost bird replay
+- Pause functionality
+- Timed background switching
+
+## Tech Stack
+
+- TypeScript
+- RxJS
+- SVG
+- HTML
+- CSS
+- Functional Reactive Programming
+
+## Project Focus
+
+This project focused on building a game using functional reactive programming principles.
+
+The project strengthened skills in:
+- TypeScript programming
+- Observable streams
+- Event-driven design
+- Functional programming
+- Game state management
+- Browser-based rendering with SVG
+
+## Learning Outcome
+
+Flappy Birb helped demonstrate how reactive programming can be used to build interactive applications with clean event flow and predictable state updates.
 ## Usage
 
 Setup (requires node.js):
